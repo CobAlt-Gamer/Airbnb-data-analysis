@@ -4,6 +4,10 @@ A comprehensive data analysis tool for Airbnb listings data with interactive vis
 
 In this particular instance I have used the dataset from kaggle (mentioned below), to test the features and all
 
+If you want to test this Project you guys can try it on streamlit - https://airbnbdata.streamlit.app
+Sample data you can download from kaggle - https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata?select=Airbnb_Open_Data.csv
+
+
 <img width="1440" alt="Screenshot 2025-05-25 at 7 27 07 AM" src="https://github.com/user-attachments/assets/cf4bfbff-4ea2-4e3f-ae56-a08ebb260b42" />
 <img width="1440" alt="Screenshot 2025-05-25 at 7 27 50 AM" src="https://github.com/user-attachments/assets/3fc9ddd4-20d3-4ac4-9d90-3bef790862a7" />
 <img width="1440" alt="Screenshot 2025-05-25 at 7 28 17 AM" src="https://github.com/user-attachments/assets/f71c9e82-ebc1-420f-b6ec-bd213e36ef3c" />
