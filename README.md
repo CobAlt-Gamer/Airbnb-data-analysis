@@ -65,7 +65,7 @@ This application performs detailed analysis on Airbnb listing data, covering:
 
 1. Clone this repository or download the source code
    ```
-   git clone https://github.com/yourusername/airbnb-data-analysis.git
+   git clone https://github.com/mehul-tandon/Airbnb-data-analysis.git
    cd airbnb-data-analysis
    ```
 
