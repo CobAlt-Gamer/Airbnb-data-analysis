@@ -103,9 +103,9 @@ This application performs detailed analysis on Airbnb listing data, covering:
 - `utils.py`: Utility functions for formatting and display
 - `data/`: Directory containing sample data and data generation scripts
 
-## Academic Project Information
+## Project Focus Areas
 
-This project was developed as part of a 3rd year BTech Computer Science curriculum, focusing on:
+This project focuses on several key data analysis techniques:
 
 - Data cleaning and handling missing values
 - Feature selection and engineering
@@ -128,4 +128,5 @@ This project is available for educational and personal use.
 - Inside Airbnb for inspiring the data structure
 - Streamlit for the interactive web application framework
 - Python data science community for the excellent libraries
+- Streamlit for the deployment of the project
 - Kaggle for the Airbnb Open Dataset (https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata?select=Airbnb_Open_Data.csv)
