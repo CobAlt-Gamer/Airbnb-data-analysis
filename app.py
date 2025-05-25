@@ -54,7 +54,6 @@ feature engineering, statistical analysis, and visualization of patterns and tre
 2. Explore the different analysis tabs
 3. Interact with the visualizations to gain insights
 
-*Created by: A 3rd Year BTech Computer Science Student*
 """)
 
 # Sidebar for navigation
